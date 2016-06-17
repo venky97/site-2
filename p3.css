@@ -1,0 +1,13 @@
+.window
+{
+	position: fixed;
+	top: 400px;
+	left: 100px;
+	bottom: 0;
+}
+.window #Animation
+{
+	position: fixed;
+	top: 400px;
+	left: 100px;
+}
